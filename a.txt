@@ -1,3 +1,6 @@
 teste
 entendento o head
+HEAD
 esta linha foi modificada no ramo master
+esta linha foi modificada no ramo teste
+teste
